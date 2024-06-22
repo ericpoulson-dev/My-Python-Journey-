@@ -1,0 +1,6 @@
+my_name = "Eric Poulson"
+print("Hello and welcome " + my_name + "!")
+print("This is my journey to learning Python!")
+print("Also, to any viewers, I'm utilizing free resources so forgive me if the code is barebones")
+
+#Last statement could've been a comment, but oh well. I could've been a millionaire *shurgs* 
