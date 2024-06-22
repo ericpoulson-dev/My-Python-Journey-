@@ -1,0 +1,15 @@
+print("Here's a little information about me!")
+print("I've always wanted to be a data scientist, not ever since I was little, but moreso about 6 months into my IT career")
+print("Data has always been my desire, for lack of better terms, in context of technology!")
+
+print("So, I took it upon myself to decide to upskill and learn a new programming language! Afterall, once you learn one the rest come easier right?")
+print("I previously dabbled with Java due to school. A little cards project here, a game of morepinzee there.")
+print("So, I decided to learn Python to advance my career in data analysis and data science as I earn my Master's in Data Analytics")
+
+print("This is a self taught journey, so I hope to track my progress and improve beyond comprehensible measures!")
+
+print("Well enough of me talking, let's get to the first message and coder prints")
+
+
+
+print("Hello world!")
