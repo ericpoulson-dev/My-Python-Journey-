@@ -1,0 +1,1 @@
+Hello! My name is Eric Poulson--Eric for short--and I wanted to document my journey of learning coding languages to develop my career as a Data Analyst. Take a stroll with me as I develop my skills past the elementary level and improve over time. 
