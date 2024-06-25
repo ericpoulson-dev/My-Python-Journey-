@@ -1,0 +1,5 @@
+temperature = 80 
+if temperature >70:
+    print("It's warm")
+    print("Drink some water")      
+print("Done")
